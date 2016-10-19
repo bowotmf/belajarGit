@@ -11,7 +11,7 @@ Sesi 1
   - Repository
   - Changeset
   - Snapshot
-  - Commit
+  - Commit :  untuk menyimpan seluruh perubahan yang terjadi.
   - Patch
   - Merge
   
@@ -26,8 +26,8 @@ Sesi 1
   
 Sesi 2 
 - Perintah standar
-  - init
-  - add
+  - init : untuk membuat repo lokal baru pada perintah. Ini akan ibuat sebuah folder baru yang bernama " .git" .
+  - add : untuk menambahkan file ke dalam repo yang sebelumnya sudah dibuat.
   - diff
   - commit
   - log
@@ -41,8 +41,7 @@ Sesi 3
 - Kolaborasi
   - clone
   - fetch
-  - pull
-  - push
+  - pull/push : untuk menyimpan dan mengambil data dari remote repo
   - mengelola repository remote
   
 - Workflow
